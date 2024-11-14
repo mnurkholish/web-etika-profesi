@@ -46,6 +46,4 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
-*.txt
-
 # End of https://www.toptal.com/developers/gitignore/api/windows,visualstudiocode
